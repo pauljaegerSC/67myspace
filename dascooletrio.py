@@ -39,3 +39,6 @@ print(ist_gerade(3))
 berüßung("Paul")
 print(fakultaet(5))
 print(ist_palindrom("jhfhjk"))
+
+
+was geht yallah
